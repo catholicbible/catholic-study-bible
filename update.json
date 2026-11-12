@@ -1,6 +1,7 @@
 {
-  "versionCode": 150,
-  "versionName": "1.1.8",
+  "versionCode": 152,
+  "versionName": "1.1.10",
+  "apkUrl": "https://github.com/catholicbible/catholic-study-bible/releases/latest/download/Catholic.Study.Bible.apk",
   "apkFileName": "Catholic.Study.Bible.apk",
-  "releaseNotes": "GitHub-hosted update system; automatic update checks; maintenance improvements."
+  "releaseNotes": "Smoother transitions between the main menu, Bible navigator and Bible reader; prevents blank or white intermediate frames."
 }
